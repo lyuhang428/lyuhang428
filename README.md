@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td width="55%" align="center">
       <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=github&theme=github-dark&preferLogin=false">
@@ -38,4 +38,4 @@ Here are some ideas to get you started:
       </a>
     </td>
   </tr>
-</table>
+</table> -->
